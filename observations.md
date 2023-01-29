@@ -68,3 +68,7 @@ against viscera weight
 against whole weight
 
 ![image](plots/whole_weight-vs-age.png)
+
+max and min values:
+length   0.075, 0.815
+diameter 0.055, 0.65
